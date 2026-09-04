@@ -24,7 +24,7 @@ Algorytm zliczania oraz logika klasyfikacji znaków zostały przetestowane i zwe
 | **Spacje** | 82 | ✅ Poprawny |
 
 ## 🛠️ Technologie
-* Język programowania wykorzystany do budowy algorytmu.
+* **Python** Język programowania wykorzystany do budowy algorytmu.
 * **Git / GitHub** – system kontroli wersji.
 
 ## 📈 Planowany rozwój projektu
